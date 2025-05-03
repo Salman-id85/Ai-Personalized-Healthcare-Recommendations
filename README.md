@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-username/medication-recommendation.git
+git clone [https://github.com/your-username/medication-recommendation.git](https://github.com/Salman-id85/Ai-Personalized-Healthcare-Recommendations.git)
 cd medication-recommendation
 ```
 
